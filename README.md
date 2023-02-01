@@ -32,16 +32,11 @@ The goal of this class is to give students an introduction to and hands on exper
 
 Upon completion, students will be able to:
 
-1. Describe the key activities in a data science project.
-2. Use popular Python packages for data visualization.
-3. Use Pandas library for data transformations.
-4. Evaluate the quality of a dataset for a given data science project.
-5. Create functions and programs that are cleaning and transforming raw data sets.
-6. Load, read and write from different data sources.
-7. Apply basic statistical knowledge in a data science project to test and verify hypotheses.
-8. Create new data sets by combining data from different sources.
-9. Understand the role of modeling in a data science project.
-10. Apply best practices of communication for reporting when they finish a data science project.
+●	Understand conceptually the basics of machine learning like hypothesis space, probability, classifier, dimensionality reduction, cross validation etc.
+●	Be introduced to basic unsupervised learning methods, such as clustering
+●	Learn a few key supervised learning techniques. Examples include decision trees, linear and logistic regression, Bayesian classifiers, Support Vector Machines
+●	Apply the learned techniques to some analytics problem through a project.
+
 
 <!-- ## Covid-19
 
